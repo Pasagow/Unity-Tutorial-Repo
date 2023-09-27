@@ -245,6 +245,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56ba6d9a6c21d0642a8162d761d4cf40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  editorString: Shabang
 --- !u!4 &1976562923
 Transform:
   m_ObjectHideFlags: 0
